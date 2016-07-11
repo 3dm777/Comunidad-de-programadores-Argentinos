@@ -36,7 +36,7 @@ Grupo: https://www.facebook.com/groups/coperar/
 ----------
 >A continuación dejo una lista de webs y páginas facebook que acostumbran a dejar spam en el grupo para que sirva de guía a los admins y moderadores. Normalmente publican con diferentes usuarios por lo que es más fácil ubicarlos por el link que por el usuario ¿Qué hacer si un usuario X publica contenido proveniente de alguna de las páginas listadas? Se elimina el contenido y blockea al usuario (tildando la casilla para evitar vuelva a unirse). Para agregar páginas a ésta lista me las mandan por MP en FB (Pablo peña) o me dan su cuenta de github para que los agregue como colaboradores y así poder editarla uds mismos.
 
-**1** Aplicaciones Web. (/Aplicaciones-Web-107......).
-**2** Desarrollador Android. (/Desarrollador-Android-661......).
+- **Aplicaciones Web** (/Aplicaciones-Web-107......).
+- **Desarrollador Android** (/Desarrollador-Android-661......).
 
 
