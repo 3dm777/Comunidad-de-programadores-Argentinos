@@ -48,12 +48,20 @@ Las siguientes normas las estoy construyendo según: Las normas de varios grupos
 **Normas de enlaces y publicaciones**
 
 **1.** Promoción de tu sitio web, canal de youtube, enlaces de vídeos de youtube, instagram, snapchat, números de whatsapp, grupos de whatsapp, grupos de facebook o páginas, etc. No está permitido.
+
 **2.** Publicar directamente vídeos relacionados con la programación (sin ningún enlace) será aprobado.
+
 **3.** Están permitidos enlaces oficiales a cualquier noticia o anuncio (por ejemplo, se ha publicado una nueva versión de Angular, aquí está la nota oficial de Google), procurar que no se repitan.
+
 **4.** La sección de comentarios no debería estar llena de mensajes irrelevantes, enlaces, etc.
+
 **5.** No se permite contenido de spam o programado, esto afecta también a las ediciones, publicar un estado para luego editarlo con enlaces se sanciona eliminando el estado.
+
 **6.** miembros que violan las reglas serán avisados, de reincidir sobre todo con el spam o enlaces blockeados inmediatamente.
+
 **7.** Si tenés guias, videos o cualquier material que creas puede ser util para los miembros (videotutoriales y todos esos enlaces que NO están permitidos) publicalos aqui: (github o lo que sea que se coordine para esto), el material se va a revisar y posteriormente publicar en las páginas de recursos y etc.
+
 **8.** Norma de memes: los memes, están permitidos pero esto va a depender de la visualización del inicio, cuando hayan muchas publicaciones importantes (y esto es casi todos los días), se van a borrar. (creo q es mejor prohibirlos ya hay muchos lugares para memes, pero bueno dejo esto a confirmación del resto de miembros).
+
 
 **Más propuestas luego**
